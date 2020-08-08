@@ -3,7 +3,7 @@
 
 #define FIREBASE_HOST "smartnodemcu.firebaseio.com"                     //Your Firebase Project URL goes here without "http:" and "/"
 #define FIREBASE_AUTH "Kd0*****b"       //Your Firebase Database Secret goes here
-#define WIFI_SSID "Bab"                                               //your WiFi SSID for which yout NodeMCU connects
+#define WIFI_SSID "Bab"                                               //your WiFi SSID to which your NodeMCU connects
 #define WIFI_PASSWORD "avi***37"                                      //Password of your wifi network 
 
 #define Relay1 D5  //D5
