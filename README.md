@@ -1,0 +1,1 @@
+[![Watch the smart home demo](https://github.com/aviraw/Home_Automation/raw/master/assets/47274991/1e118ebc-fa8f-4b35-890f-f2d0c2bbb2ca)](https://github.com/aviraw/Home_Automation/raw/master/smart%20home.mp4)
