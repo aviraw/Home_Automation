@@ -4,3 +4,6 @@
 
 Circuit Diagram
 ![image](https://github.com/aviraw/Home_Automation/assets/47274991/7a66a2a8-0cd5-4b3d-b637-12c690abfeb3)
+
+
+https://www.hackster.io/aviral-kumar-srivastava/smart-home-automation-system-using-nodemcu-alexa-3d6c8f
